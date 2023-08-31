@@ -9,7 +9,7 @@ var myFrame = document.getElementById('myframe');
 	i++;
 	}
 	else if (i == 1){
-	document.getElementById ('myframe').src='http://sre-bot.sre.prod.s.o3.ru/?https://grafana.o3.ru/d/CabU4X04k/late-shipment-details?	orgId=1&refresh=5m&var-flow_type=transit&var-warehouse=%D0%90%D0%9B%D0%9C%D0%90%D0%A2%D0%AB_%D0%9C	%D0%A0%D0%A4%D0%A6&var-cutoff=All&var-shut_code=All&var-next_place_name=All&var-ship_status=All&var-	is_well_read=All&var-transit_type=All&var-cell_24h=All';
+	document.getElementById ('myframe').src='http://sre-bot.sre.prod.s.o3.ru/?https://grafana.o3.ru/d/CabU4X04k/late-shipment-details?orgId=1&refresh=5m&var-flow_type=transit&var-warehouse=%D0%90%D0%9B%D0%9C%D0%90%D0%A2%D0%AB_%D0%9C%D0%A0%D0%A4%D0%A6&var-cutoff=All&var-shut_code=All&var-next_place_name=All&var-ship_status=All&var-is_well_read=All&var-transit_type=All&var-cell_24h=All';
 	i++;
 
 	}
