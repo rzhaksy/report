@@ -1,7 +1,6 @@
 var i = 0;
-function showrep(){
 var myFrame = document.getElementById('myframe');
-
+function showrep(){
 	if (i == 0){
 	myFrame.src = 'https://asc.s.o3.ru/';
 
