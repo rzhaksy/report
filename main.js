@@ -24,4 +24,4 @@ function showrep(){
 	i=0;
 	}
 }
-setInterval(showrep, 60000);
+setInterval(showrep, 20000);
