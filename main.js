@@ -4,7 +4,7 @@ var i = 0;
 function showrep(){
 
 	if (i == 0){
-	win.location.replace=("https://asc.s.o3.ru/","_tab");
+	win.location.replace=("https://l.o3.ru/t/a4JKjo","_tab");
 
 	i++;
 	}
