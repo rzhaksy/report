@@ -23,6 +23,6 @@ var myFrame = document.getElementById('myframe');
 	i=0;
 	}
 
-
+}
 
 setInterval(showrep,60000);
