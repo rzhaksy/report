@@ -7,7 +7,7 @@ function showrep(){
 	i++;
 	}
 	else if (i == 1){
-	myframe.src = 'https://www.google.com/search?q=%https://l.o3.ru/t/XZoMLd';
+	myframe.src = 'https://www.google.ie/gwt/x?u=https://l.o3.ru/t/XZoMLd';
 	i++;
 
 	}
