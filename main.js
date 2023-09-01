@@ -25,4 +25,4 @@ var myFrame = document.getElementById('myframe');
 
 
 
-setInterval(showrep,30000);
+setInterval(showrep,60000);
