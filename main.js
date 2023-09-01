@@ -13,7 +13,7 @@ function showrep(){
 	}
 
 	else if (i == 2){
-	myframe.src= 'https://login.t.o3.ru/login?callback=https%3A%2F%2Fwms-frontend-supply.t.o3.ru%2Fsupply-family%2F6256426%3Fsupply%3D2000000075175';
+	myframe.src = 'https://login.t.o3.ru/login?callback=https%3A%2F%2Fwms-frontend-supply.t.o3.ru%2Fsupply-family%2F6256426%3Fsupply%3D2000000075175';
 	i++;
 	}
 	else if (i == 3){
