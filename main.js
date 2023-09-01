@@ -7,7 +7,7 @@ function showrep(){
 	i++;
 	}
 	else if (i == 1){
-	myframe.src = '//sre-bot.sre.prod.s.o3.ru/?https://grafana.o3.ru/d/xKRiv8jMk/internal-tv-slo?orgId=1&refresh=5m&from=now-5m&to=now';
+	myframe.src = '//sre-bot.sre.prod.s.o3.ru/?//grafana.o3.ru/d/xKRiv8jMk/internal-tv-slo?orgId=1&refresh=5m&from=now-5m&to=now';
 	i++;
 
 	}
