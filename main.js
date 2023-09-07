@@ -2,7 +2,7 @@ var i = 0;
 var myFrame = document.getElementById('myframe');
 function showrep(){
 	if (i == 0){
-	myframe.src = 'https://asc.s.o3.ru/';
+	myframe.src = 'http://grafana.o3.ru/d/Zx9PNH8Zk/26_proizvoditel-nost-tekushchei-smeny-out?orgId=1&var-warehouse=%D0%90%D0%9B%D0%9C%D0%90%D0%A2%D0%AB_%D0%9C%D0%A0%D0%A4%D0%A6&var-OperationName=All&var-FioName=All';
 
 	i++;
 	}
@@ -13,14 +13,10 @@ function showrep(){
 	}
 
 	else if (i == 2){
-	myframe.src = 'https://login.t.o3.ru/login?callback=https%3A%2F%2Fwms-frontend-supply.t.o3.ru%2Fsupply-family%2F6256426%3Fsupply%3D2000000075175';
-	i++;
-	}
-	else if (i == 3){
-	myframe.src = 'https://grafana.o3.ru/d-solo/fjVlUU04z/late-shipment?orgId=1&refresh=5m&var-flow_type=transit&var-warehouse=%D0%90%D0%9B%D0%9C%D0%90%D0%A2%D0%AB_%D0%9C%D0%A0%D0%A4%D0%A6&var-name_groupped_1=%D0%9D%D0%B5+%D0%B2%D1%8B%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D1%8B+%D0%B8%D0%B7+%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B3%D1%80%D1%83%D0%B7%D0%B0&var-is_well_read_link=%D0%9D%D0%B5+%D0%B2%D1%8B%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%B8+%D0%B8%D0%B7+%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B0&var-transit_type_link=%D0%A1+%D0%B2%D1%8B%D1%87%D0%B8%D1%82%D0%BA%D0%BE%D0%B9&var-ls_total_postings=169753&var-hours=6&var-minutes=360&from=1693718521347&to=1693740121347&panelId=51';
-	
+	myframe.src = 'https://grafana.o3.ru/d/WwgP6CBVk/28-processing-time-and-sla?orgId=1&var-Cluster=All&var-HubType=All&var-SortCenter=1020000310007000&var-action=All&var-article_type=All&var-threshold=20&var-mode=1&var-tracing=%7B%22dashboard%22:%20%22%2328.%20Processing%20Time%20%26%20SLA%22,%20%20%22uid%22:%22WwgP6CBVk%22,%20%22user_id%22:%200,%20%22user_login%22:%20%22%22,%20%22timefilter_from%22:%201692174004887,%20%22timefilter_to%22:%201692346804887%7D&var-event_user_login=&var-delivery_schema=All&var-is_return=All&var-is_zone_courier_give_out=All&var-is_zone_keeping=All';
 	i=0;
 	}
+
 
 }
 
